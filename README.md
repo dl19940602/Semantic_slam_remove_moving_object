@@ -1,0 +1,1 @@
+# Semantic_slam_remove_moving_object
